@@ -1,3 +1,3 @@
 # dvbi_github
 
-I am learning Git and GitHub for the course Data and Visualisation in BI.
+I am learning Git and GitHub. This line was changed in the conflict-test branch.
